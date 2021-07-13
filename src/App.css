@@ -4,9 +4,9 @@
   box-sizing: border-box;
 }
 body {
-  ackground: rgb(63,94,251);
-  background: radial-gradient(circle, rgba(63,94,251,1) 5%, rgba(252,70,107,1) 89%);
-  color: white;
+  background: rgb(130,55,92);
+  background: linear-gradient(90deg, rgba(130,55,92,1) 0%, rgba(57,57,104,1) 41%, rgba(5,113,135,1) 71%);
+  color: darkorange;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
 }
